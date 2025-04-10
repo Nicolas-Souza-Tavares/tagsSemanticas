@@ -11,3 +11,11 @@ header{
     height: 60px;
     background-color: cadetblue;
 }
+
+header nav{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: cornflowerblue ;
+}
