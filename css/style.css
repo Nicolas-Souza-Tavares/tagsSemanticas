@@ -4,3 +4,10 @@ body{
     height: 100%;
     background-color: darkslategrey;
 }
+
+header{
+    position: relative;
+    width: 100px;
+    height: 60px;
+    background-color: cadetblue;
+}
